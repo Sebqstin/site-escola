@@ -1,3 +1,5 @@
 .cabeçalho {
+    display: flex;
+    align-items: center;
     
 }
