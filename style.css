@@ -16,7 +16,7 @@ header {
     align-items: center;
     image-resolution: 4px;
     position: absolute;
-    width: 560px;
-    height: 560px;
+    max-width: 560px;
+    max-height: 560px;
     
 }
