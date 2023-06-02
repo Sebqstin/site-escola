@@ -3,11 +3,15 @@
     align-items: center;
     justify-content: space-around;
     color: white;
+    background-color: #505BB0;
 }
 
 body{
     background-color: #343B71;
 }
 
+.faixada {
+    display: flex;
 
+}
 
