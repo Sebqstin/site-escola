@@ -12,6 +12,7 @@ body{
 
 .faixada {
     display: flex;
+    flex-direction: column;
 
 }
 
