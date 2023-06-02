@@ -15,8 +15,8 @@ body{
 .faixada {
     display: flex;
     flex-direction: column;
-    width: 414;
-    height: 414;
+    width: 414px;
+    height: 414px;
 
 }
 
