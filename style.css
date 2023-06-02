@@ -22,3 +22,7 @@ body{
 
 }
 
+.paragrafo1 {
+    font-size: 25px;
+    flex-direction: column-reverse;
+}
