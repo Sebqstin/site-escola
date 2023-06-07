@@ -17,6 +17,10 @@ body{
     justify-content: center;
     color: white;
     font-size: 25px;
-    image-resolution: 20px;
     margin-top: 200px;
+}
+
+.brasao {
+    width: 100px;
+    height: 100px;
 }
