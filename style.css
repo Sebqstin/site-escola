@@ -12,9 +12,9 @@ body{
     background-color: #343B71;
 }
 
-.faixada {
-    position: absolute;
-width: 70px;
-height: 70px;
-
+.faixada{
+    width: 594px;
+    height: 359px;
+    left: 39px;
+    top: 275px;
 }
