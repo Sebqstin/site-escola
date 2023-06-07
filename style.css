@@ -13,9 +13,8 @@ body{
 }
 
 .faixada {
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-size: 25px;
-    margin-top: 200px;
+    position: absolute;
+width: 560px;
+height: 315px;
+
 }
