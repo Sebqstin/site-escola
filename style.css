@@ -12,3 +12,8 @@ body{
     background-color: #343B71;
 }
 
+.faixada {
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
