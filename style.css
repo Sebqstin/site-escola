@@ -18,7 +18,5 @@ body{
     color: white;
     font-size: 25px;
     image-resolution: 20px;
-    position: absolute;
-width: 560px;
-height: 315px;
+    margin-top: 200px;
 }
