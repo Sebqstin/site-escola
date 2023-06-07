@@ -15,8 +15,8 @@ body{
 .faixada {
     display: flex;
     flex-direction: column;
-    width: 414px;
-    height: 414px;
+    width: 200px;
+    height: 200px;
     color: white;
     margin-top: 60px;
     align-items: center;
