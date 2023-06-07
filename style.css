@@ -12,17 +12,3 @@ body{
     background-color: #343B71;
 }
 
-.faixada {
-    display: flex;
-    flex-direction: column;
-    width: 20px;
-    height: 20px;
-    color: white;
-    margin-top: 60px;
-    align-items: center;
-}
-
-.paragrafo1 {
-    font-size: 25px;
-    flex-direction: column-reverse;
-}
