@@ -23,7 +23,14 @@ body{
     height: 414px;
 }
 
+.exterior{
+    width: 414px;
+    height: 414px;
+}   
+}
+
 .faixadatexto{
     align-items: center;
     
 }
+
