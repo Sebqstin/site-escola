@@ -12,20 +12,3 @@ body{
     background-color: #343B71;
 }
 
-.faixada{    
-    align-items: center;
-    justify-content: space-around;
-
-}
-
-.faixada2 {
-    margin-top: 100px;
-    width: 414px;
-    height: 414px;
-}
-
-.exteriorimg {
-    width: 414px;
-    height: 414px;
-}
-
