@@ -14,6 +14,7 @@ body{
 
 .faixada{    
     align-items: center;
+    justify-content: space-around;
 
 }
 
@@ -27,7 +28,7 @@ body{
     width: 414px;
     height: 414px;
 }   
-}
+
 
 .faixadatexto{
     align-items: center;
