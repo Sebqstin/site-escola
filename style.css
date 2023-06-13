@@ -24,6 +24,7 @@ body{
     }
 
 .faixada-imagem {
+    margin-left: 50px;
     width: 560px;
     height: 315px;
 }
