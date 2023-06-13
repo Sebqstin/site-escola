@@ -19,12 +19,11 @@ body{
     font-size: 25px;
     text-align: center;
     margin-top: 200px;
-    margin-left: 150px;
+    margin-left: 50px;
     
     }
 
 .faixada-imagem {
-    margin-left: 50px;
     width: 560px;
     height: 315px;
 }
