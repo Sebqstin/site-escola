@@ -28,3 +28,21 @@ body{
     width: 560px;
     height: 315px;
 }
+
+.exterior {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+    color: white;
+
+}
+
+.exterior-imagem {
+    width: 560px;
+    height: 315px;
+}
+}
