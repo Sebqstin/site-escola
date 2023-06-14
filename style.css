@@ -70,11 +70,14 @@ body{
     align-items: center;
     color: white;
     font-family: 'Della Respira', serif;
+    margin-top: 200px;
+    margin-left: 200px;
 }
 
 .imagems {
     display: flex;
     justify-content: space-around;
+
 }
 
 .quimica{
