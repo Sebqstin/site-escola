@@ -91,3 +91,18 @@ body{
     height: 414px;
     width: 414px;
 }
+
+.imagems-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.aula{
+    height: 414px;
+    width: 414px;
+}
+.refeitorio{
+    height: 414px;
+    width: 414px;
+}
+
