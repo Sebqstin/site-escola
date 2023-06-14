@@ -58,3 +58,7 @@ body{
     color: white;
     font-family: 'Della Respira', serif;
 }
+
+.imagems {
+    justify-content: space-around;
+}
