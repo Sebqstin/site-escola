@@ -25,6 +25,11 @@ body{
     color: white;
     }
 
+.ano{
+    display: flex;
+    margin-left: 1000px;
+}
+
 .brasao{
     width: 250px;
     height: 250px;
