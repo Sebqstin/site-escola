@@ -53,6 +53,7 @@ body{
 }
 
 .lugares {
+    display: flex;
     justify-content: center;
     align-items: center;
     color: white;
@@ -60,6 +61,7 @@ body{
 }
 
 .imagems {
+    display: flex;
     justify-content: space-between;
 }
 
