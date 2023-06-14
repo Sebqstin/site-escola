@@ -50,3 +50,9 @@ body{
     width: 560px;
     height: 360px;
 }
+
+.lugares {
+    justify-content: center;
+    color: white;
+    font-family: 'Della Respira', serif;
+}
