@@ -53,6 +53,7 @@ body{
 
 .lugares {
     justify-content: center;
+    align-items: center;
     color: white;
     font-family: 'Della Respira', serif;
 }
