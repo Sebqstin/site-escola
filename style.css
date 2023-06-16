@@ -106,7 +106,9 @@ body{
 .textoslaboratorios {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
+    color: white;
+    font-family: 'Della Respira', serif ;
 }
 
 .imagems-2{
