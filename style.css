@@ -71,6 +71,12 @@ body{
     height: 360px;
 }
 
+.exterior2 {
+    display: flex;
+    color: white;
+    margin-left: 150px ;
+}
+
 .lugares {
     display: flex;
     justify-content: center;
