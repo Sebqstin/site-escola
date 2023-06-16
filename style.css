@@ -120,7 +120,7 @@ body{
 .imagems-2{
     margin-top: 100px;
     display: flex;
-    justify-content:center;
+    justify-content:space-evenly;
 }
 
 .aula{
