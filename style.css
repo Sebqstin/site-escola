@@ -10,7 +10,12 @@
 }
 
 .cabeçalho-2{
-    
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    color: white;
+    font-family: 'Della Respira', serif;
+
 }
 
 body{
