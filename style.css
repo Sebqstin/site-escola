@@ -12,7 +12,7 @@
 
 
 body{
-    background-image: linear-gradient(to end, white, blue, black);
+    background-image: linear-gradient(to right, white, blue, black);
 }
 
 .faixada{
